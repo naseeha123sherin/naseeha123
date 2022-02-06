@@ -1,2 +1,3 @@
 # naseeha123.github.io
-https://github.com/naseeha123sherin/naseeha123.github.io.git
+https://naseeha123sherin.github.io/naseeha123.github.io/
+
